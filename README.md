@@ -1,7 +1,7 @@
 # Snippets of Code for Data Professionals
 
 1) Data Analysis
-
+* <a href="pivot-example1.py">Pivot Table Example with Pandas</a>
 
 
 
