@@ -9,3 +9,4 @@ car_df = pd.read_csv("CarsData.csv")
 # Average (mean) mpg for transmission types, grouped by manufacturer
 print(pd.pivot_table(data=car_df, index='Manufacturer', values = 'mpg', columns='transmission', aggfunc=np.nanmean))
 
+
