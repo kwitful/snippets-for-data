@@ -14,11 +14,8 @@
 
 
 
-
-4) Data Visualization
-
+4) SQL & RDBMS
 
 
 
-5) SQL & RDBMS
-
+5) Machine Learning - AI
