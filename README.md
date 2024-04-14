@@ -2,6 +2,7 @@
 
 1) Data Analysis
 * <a href="pivot-example1.py">Pivot Table Example with Pandas</a>
+* <a href="plotlabels-example1.py">Plot Labeling with Matplotlib</a>
 
 
 
