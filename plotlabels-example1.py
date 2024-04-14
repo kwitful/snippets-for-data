@@ -15,5 +15,5 @@ auto_df.origin = auto_df.origin.replace({1:'USA', 2:'Europe', 3:'Asia'})
 sns.scatterplot(x=auto_df.displacement, y= auto_df.mpg)
 plt.title("Displacement-MPG Relation") # Main title
 plt.xlabel("Engine displacement") # X-axis label
-plt.ylabel("Miles-per-gallon ratio") # Y-axis labe
+plt.ylabel("Miles-per-gallon ratio") # Y-axis label
 plt.show()
