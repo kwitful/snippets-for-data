@@ -16,7 +16,7 @@
 
 
 4) SQL & RDBMS
-* <a href="pivot-example1.py"> Example 1 - Filter results with _WHERE_ </a>
+* <a href="filter-example1.sql"> Example 1 - Filter results with _WHERE_ </a>
 
 
 
