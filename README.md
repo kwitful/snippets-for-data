@@ -17,6 +17,7 @@
 
 4) SQL & RDBMS
 * <a href="filter-example1.sql"> Example 1 - Filter results with _WHERE_ </a>
+* <a href="filter-example2.sql"> Example 2 - Filter results with _WHERE_ </a>
 
 
 
