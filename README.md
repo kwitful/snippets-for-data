@@ -1,5 +1,7 @@
 # Snippets of Code for Data Professionals
 
+Note: The data used for SQL examples can be found at: https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-to-2024?select=CarsData.csv
+
 1) Data Analysis
 * <a href="pivot-example1.py">Pivot Table Example with Pandas</a>
 * <a href="plotlabels-example1.py">Plot Labeling with Matplotlib</a>
