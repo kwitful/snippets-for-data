@@ -27,3 +27,11 @@ https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-to-2024?s
 
 
 6) Machine Learning - AI
+
+
+
+
+
+__Note__: The __data__ used for __SQL__ examples can be found at: 
+
+https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-to-2024?select=CarsData.csv
