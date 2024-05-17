@@ -41,3 +41,6 @@ https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-to-2024?s
 __Note__: The __data__ used for __SQL__ examples can be found at: 
 
 https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-to-2024?select=CarsData.csv
+
+__Note__: The __data__ used for __Python__ examples can be found at: 
+https://www.kaggle.com/datasets/uciml/autompg-dataset
