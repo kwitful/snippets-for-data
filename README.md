@@ -35,7 +35,7 @@ https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-to-2024?s
 
 
 7) Programming
-* <a href="pivot-example1.py">Decorators in Python</a>
+* <a href="decorators.py">Decorators in Python</a>
 
 
 
