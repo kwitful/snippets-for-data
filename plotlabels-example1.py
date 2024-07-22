@@ -4,7 +4,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-
 # Load the data frame, turn '?' entries into NaN
 auto_df = pd.read_csv("auto-mpg.csv", na_values='?')
 
