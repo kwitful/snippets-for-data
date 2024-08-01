@@ -24,7 +24,8 @@ https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-to-2024?s
 * <a href="filter-example2.sql"> Example 2 - Filter results with _WHERE_ </a>
 * <a href="filter-example3.sql"> Example 3 - Filter results with _WHERE_ </a>
 * <a href="filter-example4.sql"> Example 4 - Filter results with _WHERE_ </a>
-
+=============================================================================
+* <a href="filter-example4.sql"> Example 1 - Filter results with _WHERE_ </a>
 
 
 
