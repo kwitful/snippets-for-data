@@ -25,6 +25,9 @@ https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-to-2024?s
 * <a href="filter-example3.sql"> Example 3 - Filter results with _WHERE_ </a>
 * <a href="filter-example4.sql"> Example 4 - Filter results with _WHERE_ </a>
 * <a href="groupagg-example1.sql"> Example 1 - Grouping and Aggregation </a>
+* <a href="groupagg-example2.sql"> Example 2 - Grouping and Aggregation </a>
+
+
 
 
 
@@ -37,6 +40,9 @@ https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-to-2024?s
 7) Programming
 * <a href="decorators.py">Decorators in Python</a>
 
+
+
+8) Natural Language Processing
 
 
 
